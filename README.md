@@ -9,9 +9,11 @@
 ## KẾT QUẢ THỰC HÀNH
 
 ### 1. Ảnh màn hình Giao diện chính
-![Giao diện chính]<img width="657" height="401" alt="Screenshot 2026-10-23 145901" src="https://github.com/user-attachments/assets/e8618804-c9f8-44c1-b2d3-9b308a3a21a2" />
+![Giao diện chính]<img width="464" height="206" alt="image" src="https://github.com/user-attachments/assets/72bf8c84-d3b9-44c2-87f4-4f2618965883" />
+
 
 ### 2. Ảnh màn hình Chức năng thực thi / Kết quả
-![Thực thi chức năng]<img width="1242" height="572" alt="Screenshot 2026-10-25 130921" src="https://github.com/user-attachments/assets/b864492c-a177-4c1a-82a1-b8e7c3a31a10" />
+![Thực thi chức năng]<img width="435" height="280" alt="image" src="https://github.com/user-attachments/assets/0ef1556f-25e4-4880-8546-2ba25c9d8155" />
+
 
 
